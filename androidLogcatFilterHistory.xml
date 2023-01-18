@@ -1,8 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine " />
+    <option name="mostRecentlyUsed" value="" />
     <option name="nonFavorites">
       <list>
+        <option value="Pub/Cache/hosted/pub.dev/cloud_firestore_platform_interface-5.9.1/lib/src/platform_interface/utils/load_bundle_task_state.dart:17:13:  Error: Method not found: 'FallThroughError'. throw FallThroughError();" />
         <option value="package:mine " />
         <option value="package:mine test" />
         <option value="package:mine" />
@@ -22,7 +23,6 @@
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh" />
         <option value="package:mine -line~:Tuya -line~:TYCa -line~:TYSDK -line~:panelActionBundle -line~:com.tuya.smart -line~:ImageReader -line~:0x00000000 -line~:libc -line~:SDM -line~:vendor.qt -line~:statsd -line~:Choreographer -line~:paho_mqtt -line~:SoLoader -line~:MMKV -line~:AdrenoGLES -line~:ApkSoSource -line~:OpenGLRenderer -line~:GwBroadcastMonitorService -line~:GwBroadcastMonitorModel -line~:IntegerColor " />
         <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR" />
-        <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh level:ERROR line~:convertBitmap" />
       </list>
     </option>
   </component>
