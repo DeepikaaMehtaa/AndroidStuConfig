@@ -16,7 +16,7 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Deepika\Projects" />
+    <option name="cloneParentDir" value="D:\Softwares" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
@@ -30,6 +30,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
+    <option name="PATCH_STORAGE_LOCATION" value="D:/Deepika/Projects" />
     <option name="COMMIT_FROM_LOCAL_CHANGES" value="true" />
     <option name="SHOW_EDITOR_PREVIEW_ON_DOUBLE_CLICK" value="false" />
   </component>
