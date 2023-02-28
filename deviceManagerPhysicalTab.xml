@@ -5,6 +5,28 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="R52N50H7KLZ" />
+          </Key>
+        </key>
+        <name value="samsung SM-T515" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
+            <value value="192.168.1.9:5555" />
+          </Key>
+        </key>
+        <name value="samsung SM-T515" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="cd0d2f5e" />
           </Key>
         </key>
@@ -91,12 +113,12 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
-            <value value="R52N50H7KLZ" />
+            <value value="R9ZRB00K1AV" />
           </Key>
         </key>
-        <name value="samsung SM-T515" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
+        <name value="samsung SM-A226B" />
+        <target value="Android Tiramisu" />
+        <api value="androidversion:33:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
