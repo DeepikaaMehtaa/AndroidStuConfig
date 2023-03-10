@@ -14,9 +14,13 @@
           <option name="url" value="https://gitlab.mobileprogramming.net/mprog/lexmarkmobileone_flutter.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://gitl.mobileprogramming.net/mprog/lexmarkmobileone_flutter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Softwares" />
+    <option name="cloneParentDir" value="C:\Deepika" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
