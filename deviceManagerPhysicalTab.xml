@@ -149,8 +149,9 @@
             <value value="ce0317139b0e34c80c" />
           </Key>
         </key>
-        <name value="Device" />
-        <target value="Android 1.0" />
+        <name value="samsung SM-G955F" />
+        <target value="Android 9.0" />
+        <api value="androidversion:28:null:null:true" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
