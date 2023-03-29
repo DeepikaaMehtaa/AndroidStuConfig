@@ -5,6 +5,17 @@
         <key>
           <Key>
             <type value="SERIAL_NUMBER" />
+            <value value="RZ8M42RMTTH" />
+          </Key>
+        </key>
+        <name value="samsung SM-A205F" />
+        <target value="Android 11.0" />
+        <api value="androidversion:30:null:null:true" />
+      </PhysicalDevice>
+      <PhysicalDevice>
+        <key>
+          <Key>
+            <type value="SERIAL_NUMBER" />
             <value value="18e75d080704" />
           </Key>
         </key>
@@ -130,17 +141,6 @@
         <name value="samsung SM-A226B" />
         <target value="Android 13.0" />
         <api value="androidversion:33:null:null:true" />
-      </PhysicalDevice>
-      <PhysicalDevice>
-        <key>
-          <Key>
-            <type value="SERIAL_NUMBER" />
-            <value value="RZ8M42RMTTH" />
-          </Key>
-        </key>
-        <name value="samsung SM-A205F" />
-        <target value="Android 11.0" />
-        <api value="androidversion:30:null:null:true" />
       </PhysicalDevice>
       <PhysicalDevice>
         <key>
