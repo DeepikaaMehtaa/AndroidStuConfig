@@ -1,12 +1,12 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
-    <option name="mostRecentlyUsed" value="package:mine" />
+    <option name="mostRecentlyUsed" value="package:com.lexmark.mobileone " />
     <option name="nonFavorites">
       <list>
+        <option value="package:com.lexmark.mobileone " />
         <option value="package:mine" />
         <option value="state ============" />
         <option value="state" />
-        <option value="package:com.lexmark.mobileone " />
         <option value="Pub/Cache/hosted/pub.dev/cloud_firestore_platform_interface-5.9.1/lib/src/platform_interface/utils/load_bundle_task_state.dart:17:13:  Error: Method not found: 'FallThroughError'. throw FallThroughError();" />
         <option value="package:mine " />
         <option value="package:mine test" />
