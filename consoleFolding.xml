@@ -8,13 +8,15 @@
         <option value="Accessing hidden field Landroid/app/LoadedApk" />
         <option value="Accessing hidden method" />
         <option value="Accessing hidden method Landroid/app/LoadedApk" />
+        <option value="cancelDraw io.flutter.embedding.android.FlutterActivityAndFragmentDelegate$2@1535092" />
         <option value="Choreographer" />
         <option value="FA" />
+        <option value="nativeRelease nativeObject" />
         <option value="ollect last valueType : 55" />
         <option value="Service already running, using existing service" />
         <option value="studio.deploy" />
         <option value="StudioTransport" />
-        <option value="nativeRelease nativeObject" />
+        <option value="ViewPostIme pointer" />
       </list>
     </option>
   </component>
