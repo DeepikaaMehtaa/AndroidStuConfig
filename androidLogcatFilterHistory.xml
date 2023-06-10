@@ -4,25 +4,20 @@
     <option name="nonFavorites">
       <list>
         <option value="package:com.lexmark.mobileone " />
-        <option value="package:mine" />
-        <option value="state ============" />
-        <option value="state" />
-        <option value="Pub/Cache/hosted/pub.dev/cloud_firestore_platform_interface-5.9.1/lib/src/platform_interface/utils/load_bundle_task_state.dart:17:13:  Error: Method not found: 'FallThroughError'. throw FallThroughError();" />
-        <option value="package:mine " />
-        <option value="package:mine test" />
-        <option value="package:mine XML" />
-        <option value="package:mine sett" />
-        <option value="package:mine level:error " />
-        <option value="package:mine level:ERROR " />
-        <option value="package:mine -line~:onFlyCompress " />
-        <option value="level:ERROR " />
-        <option value="package:mine -line~:onFlyCompress level:error" />
-        <option value="package:mine -line~:onFlyCompress level:error message:calculateHistogramSimilarity" />
-        <option value="package:mine -line~:onFlyCompress level:error " />
+        <option value="Consent" />
+        <option value="level:warn consent" />
+        <option value="level:warn " />
         <option value="level:error " />
-        <option value="package:mine -line~:onFlyCompress" />
-        <option value="package:mine -line~:onFlyCompress level:ERROR " />
-        <option value="package:mine -line~:onFlyCompress -line~:RxComputationTh " />
+        <option value="remoteCon" />
+        <option value="remote" />
+        <option value="package:com.lexmark.mobileone  level:error " />
+        <option value="package:com.lexmark.mobileone" />
+        <option value="Firebase" />
+        <option value="package:com.lexmark.mobileone level:error " />
+        <option value="package:com." />
+        <option value="package:com.p" />
+        <option value="package:com.lexmark.mobileone IPPData" />
+        <option value="package:" />
       </list>
     </option>
   </component>
