@@ -19,9 +19,8 @@
             <value value="R9PT80BEL8P" />
           </Key>
         </key>
-        <name value="samsung SM-T220" />
-        <target value="Android 13.0" />
-        <api value="androidversion:33:null:null:true" />
+        <name value="Device" />
+        <target value="Android 1.0" />
       </PhysicalDevice>
     </physicalDevices>
   </component>
