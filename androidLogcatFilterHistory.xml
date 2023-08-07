@@ -1,7 +1,9 @@
 <application>
   <component name="AndroidLogcatFilterHistory">
+    <option name="mostRecentlyUsed" value="package:mine isStaConcurrencyForLocalOnlyConnectionsSupported" />
     <option name="nonFavorites">
       <list>
+        <option value="package:mine isStaConcurrencyForLocalOnlyConnectionsSupported" />
         <option value="package:mine " />
         <option value="package:mine" />
         <option value="package:mine isStaConcurrencyForMultiInternetSupported" />
