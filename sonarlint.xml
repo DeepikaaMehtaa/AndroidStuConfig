@@ -1,6 +1,16 @@
 <application>
   <component name="SonarLintGlobalSettings">
     <option name="autoTrigger" value="false" />
+    <option name="sonarQubeServers">
+      <list>
+        <SonarQubeServer>
+          <option name="hostUrl" value="https://sonarcloud.io" />
+          <token>dfcbdfccdf9fdfcbdf9cdfc8df9bdf99df9edf93df98dfcfdfcfdf99dfc9df92df9adfcfdf9edf9bdf9ddfcfdfcfdf9fdf9edfcedfccdf9edf9cdf9ddfc8df9ddf9ddfcbdf9fdf9ddf9edf98df9cdf9d</token>
+          <option name="name" value="Test" />
+          <organizationKey>mobileprogramming1</organizationKey>
+        </SonarQubeServer>
+      </list>
+    </option>
     <rules />
   </component>
 </application>
