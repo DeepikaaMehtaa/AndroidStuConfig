@@ -44,7 +44,6 @@
                   <option value="com.intellij.modules.vcs" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -253,6 +252,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="com.mallowigi.colorHighlighter">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="com.mohn93.advanced.json2dart.plugin">
           <value>
             <PluginData>
@@ -405,6 +415,17 @@
             </PluginData>
           </value>
         </entry>
+        <entry key="de.tyxar.clean_architecture_plugin">
+          <value>
+            <PluginData>
+              <option name="dependencies">
+                <set>
+                  <option value="com.intellij.modules.platform" />
+                </set>
+              </option>
+            </PluginData>
+          </value>
+        </entry>
         <entry key="dev.polek.adbwifi">
           <value>
             <PluginData>
@@ -425,7 +446,6 @@
                   <option value="org.jetbrains.android" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
@@ -437,7 +457,6 @@
                   <option value="com.intellij.modules.vcs" />
                 </set>
               </option>
-              <option name="enabled" value="false" />
             </PluginData>
           </value>
         </entry>
